@@ -11,31 +11,50 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electronics and Communication Engineering, University of Kerala, 2015
+* M.S. in Electrical Engineering, University of Houston, 2018
+* Ph.D in Electrical Engineering, University of Texas at Dallas, 2024 (Expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2020 - Current: Research Assistant
+  * University of Texas at Dallas
+  * Duties included:  
+    * Established a methodology for quantifying the sudden variation in particulate matter (PM) concentration.
+    * Calibrated cheaper LoRaWan based Airborne Particulate Sensors using Machine Learning.
+    * Created Live Dashboards for hundereds of air quality moitors deployed across DFW.
+  * Supervisor: Professor David Lary
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2017 - Fall 2019: Research Assistant
+  * University of Houston
+  * Duties included: 
+      * Ran Time Series models to address variation in PM concentration across Houston.
+  * Supervisor: Professor Peggy Lindner
+  
+* Summer 2015 - Summer 2016
+  * QBurst
+  * Duties included: 
+    * Created a Live Dashboard platform for Refigerant System in office space.
+    * Analyzed and Visualised the social media data to understand the public sentiments towards popular brands.
+  * Title: Software Engineer
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Data Science Knowledge: Linear Algebra, Differential Calculus, Statistics, Data Visulaization, Data Wrangling
+* Programming language:
+  * Python
+  * R
+  * Julia
+  * SQL
+* Libraries:
+  * Pandas
+  * Numpy
+  * Keras
+  * Scikit-learn
+  * dplyr
+  * ggplot
+  * MLJ
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
