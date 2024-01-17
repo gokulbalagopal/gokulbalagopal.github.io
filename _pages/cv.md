@@ -21,9 +21,9 @@ redirect_from:
 *January 2020 - Present, Dallas, TX*
 
 - Visualized the Polluted Air Parcels to identify Potential Particulate Matter (PM) sources across DFW metroplex.
-- Established a Methodology for quantifying the sudden variation in Particulate Matter (PM) concentration.
+- Established a Methodology for Quantifying the Sudden Variation in Particulate Matter (PM) Concentration.
 - Calibrated Cheaper LoRaWan based Airborne Particulate Sensors using Machine Learning.
-- Created Live Dashboards for hundereds of Air Quality Moitors deployed across DFW.
+- Created Live Dashboards for 100's of Air Quality Moitors deployed across DFW.
 
 *Supervisor: Professor David Lary*
 
