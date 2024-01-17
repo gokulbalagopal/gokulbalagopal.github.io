@@ -24,7 +24,8 @@ redirect_from:
 - Established a Methodology for quantifying the sudden variation in Particulate Matter (PM) concentration.
 - Calibrated Cheaper LoRaWan based Airborne Particulate Sensors using Machine Learning.
 - Created Live Dashboards for hundereds of Air Quality Moitors deployed across DFW.
-- *Supervisor: Professor David Lary*
+
+*Supervisor: Professor David Lary*
 
 ### University of Houston
 ***Research Assistant***
@@ -32,7 +33,8 @@ redirect_from:
 *August 2017 - August 2018, Houston, TX*
 
 - Ran Time Series models to predict variations in Particulate Matter (PM) concentration across Houston.
-- *Supervisor: Professor Peggy Lindner*
+
+*Supervisor: Professor Peggy Lindner*
   
 ### QBurst
 ***Software Engineer***
@@ -41,7 +43,8 @@ redirect_from:
 
 - Created a Live Dashboard platform for Refigerant System in office space.
 - Analyzed and Visualised the social media data to understand the public sentiments towards popular brands.
-- *Manager: Sunil PK* 
+
+*Manager: Sunil PK* 
 
 
 ## 🎓 Education
