@@ -1,59 +1,69 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
+[Download Resume](https://gokulbalagopal.github.io/files/Resume_GB.pdf){: .btn .btn--info}
 {% include base_path %}
 
+## 📧 Contact
+- Email: [balagopalgokul@gmail.com]()
+- LinkedIn: [linkedin.com/in/gokul-balagopal/](https://www.linkedin.com/in/gokul-balagopal/)
 Education
 ======
 * B.S. in Electronics and Communication Engineering, University of Kerala, 2015
 * M.S. in Electrical Engineering, University of Houston, 2018
 * Ph.D in Electrical Engineering, University of Texas at Dallas, 2024 (Expected)
 
-Work experience
-======
-* Spring 2020 - Current: Research Assistant
-  * University of Texas at Dallas
-  * Duties included:  
-    * Established a methodology for quantifying the sudden variation in particulate matter (PM) concentration.
-    * Calibrated cheaper LoRaWan based Airborne Particulate Sensors using Machine Learning.
-    * Created Live Dashboards for hundereds of air quality moitors deployed across DFW.
-  * Supervisor: Professor David Lary
+## 💼 Experience
+### University of Texas at Dallas
+***Research Assistant***
+*January 2020 - Present, Dallas, TX*
+- Visualized the Polluted Air Parcels to identify Potential Particulate Matter (PM) sources across DFW metroplex.
+- Established a Methodology for quantifying the sudden variation in Particulate Matter (PM) concentration.
+- Calibrated Cheaper LoRaWan based Airborne Particulate Sensors using Machine Learning.
+- Created Live Dashboards for hundereds of Air Quality Moitors deployed across DFW.
+*Supervisor: Professor David Lary*
 
-* Spring 2017 - Fall 2019: Research Assistant
-  * University of Houston
-  * Duties included: 
-      * Ran Time Series models to address variation in PM concentration across Houston.
-  * Supervisor: Professor Peggy Lindner
+### University of Houston
+***Research Assistant***
+*August 2017 - August 2018, Houston, TX*
+- Ran Time Series models to predict variations in Particulate Matter (PM) concentration across Houston.
+*Supervisor: Professor Peggy Lindner*
   
-* Summer 2015 - Summer 2016
-  * QBurst
-  * Duties included: 
-    * Created a Live Dashboard platform for Refigerant System in office space.
-    * Analyzed and Visualised the social media data to understand the public sentiments towards popular brands.
-  * Title: Software Engineer
-  
-Skills
-======
-* Data Science Knowledge: Linear Algebra, Differential Calculus, Statistics, Data Visulaization, Data Wrangling
-* Programming language:
-  * Python
-  * R
-  * Julia
-  * SQL
-* Libraries:
-  * Pandas
-  * Numpy
-  * Keras
-  * Scikit-learn
-  * dplyr
-  * ggplot
-  * MLJ
+### QBurst
+***Software Engineer***
+- Created a Live Dashboard platform for Refigerant System in office space.
+- Analyzed and Visualised the social media data to understand the public sentiments towards popular brands.
+*Manager: Sunil PK* 
+
+
+## 🎓 Education
+### University of Texas at Dallas
+**PhD in Electrical Engineering (STEM), 2019 - 2024**
+- GPA: 3.53/4.00
+- Coursework: Big Data and Machine Learning, Statistical Methods in Data Science, Scientific Computing
+
+### University of Houston
+**Master's in Electrical Engineering (STEM), 2017 - 2018**
+- GPA: 3.70/4.00
+- Dean's Merit Scholarship (for 2 out of 3 attended semesters);
+- Coursework: Artificial Intelligence, Automatic Learning and Data Mining
+- Certification: High Performace Computing
+
+## 📝 Projects and Articles
+I frequently work on open-source projects applying state-of-the-art AI technologies. Please visit my [Github](https://github.com/gokulbalagopal) and [portfolio](https://gokulbalagopal.github.io/portfolio/) for more details.
+
+## 🤖 Skills
+- **Programming:** Python (NumPy, Pandas, Scikit-learn, PyTorch), R, SQL, Perl, MATLAB
+- **Machine Learning:** Data Visulaization, Data Wrangling, Sentiment Analysis, Summarization
+- **Others:** 
+  - Visualization: ggplot, Matplotlib, Seaborn
+  - Statistical Tools: Excel
+
   
 Publications
 ======
