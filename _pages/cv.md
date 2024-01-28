@@ -56,7 +56,7 @@ redirect_from:
 ### University of Houston
 **Master's in Electrical Engineering (STEM), 2018**
 - GPA: 3.70/4.00
-- Dean's Merit Scholarship (for 2 out of 3 attended semesters);
+- Dean's Merit Scholarship (for 2 out of 3 attended semesters)
 - Coursework: Artificial Intelligence, Automatic Learning and Data Mining
 - Certification: High Performace Computing
 
@@ -71,13 +71,13 @@ I frequently work on open-source projects applying state-of-the-art AI technolog
   - Statistical Tools: Excel
 
   
-<!-- Publications
+Publications (To Be Puiblished)
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
