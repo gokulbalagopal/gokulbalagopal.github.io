@@ -41,34 +41,14 @@ redirect_from:
 
 *June 2015 - June 2016, Kerala, India*
 
- - Omnia ( From March 2016 - Jun 2016 )
-
-  • An IoT Platform to connect your machines and sensors to the cloud for better monitoring and analytics.
-
-  Role: Coordinated with a team of 4 in developing an IOT based platform using AngularJS, where the data extracted from the device was analyzed, visualized and send to the cloud for manipulation.
-
-- FR-BOTCONCIERGE- PROXY — CMS application for Uniqlo ( From Nov2015 - Mar 2016 )
-
-  • A CMS application based project with an estimate of around 3 million USD to provide API for the Japanese manufacturer and retailer    Uniqlo  Co. Ltd. 
-  • An application with an interface for uploading and downloading promo-codes, popular products. It also serves as a platform for sending emails to the client.
- 
-  Role: Created and implemented the UI as well as the Rest based APIs for managing the 
-  outflow of information associated with the promo codes for popular products through 
-  emails
- 
-
-- FR-ARIAKE- CMS — CMS application for Uniqlo Fast Retail ( From Aug 2015 - Nov 2015 )
-
-  • A CMS application for creating platform-independent components, for Uniqlo Co. Ltd websites. The components developed were based on Google’s material up. The project was estimated to be around 1.5 million USD with a team of 5 engineers taking part in it.
-
-  Role: Designed components using React-Redux scripting method to generate components with attributes and aspects similar to the Google-based material-UI.
-
-
-- SecondSight Analytics — Keyword analysis for social trends ( From Jun 2015 - Aug 2015 )
-
-  • A web application for analyzing the social media data to understand the current trends and sentiments of the public towards a particular product, technology or subject.
-
-  Role: Worked as a front-end developer using HTML, CSS, and ReactJS in providing the analytical solution of the raw data concerning various commercial brands in social media using Facebook and Twitter API's.
+- Developed an IoT platform as part of a team of 4 using AngularJS, enabling the connection of machines and sensors to the cloud for advanced monitoring and analytics.
+- Implemented data extraction, analysis, visualization, and cloud integration to provide comprehensive insights from device-generated data.
+- Contributed to a multi-million-dollar CMS application project for Uniqlo Co. Ltd., focusing on providing APIs for managing promo codes,   popular products, and email communication.
+- Led the development of the user interface (UI) and REST-based APIs responsible for managing the distribution of promo code-related information via email.
+- Played a crucial role in a CMS application project, estimated at approximately 1.5 million USD, aimed at creating platform-independent components for Uniqlo Co. Ltd websites, based on Google's material design principles.
+- Utilized React-Redux scripting to design and generate components with attributes and aspects in alignment with Google's material-UI.
+- Worked as a front-end developer using HTML, CSS, and ReactJS on a web application focused on analyzing social media data to gain insights into current trends and public sentiments related to various commercial brands.
+- Utilized Facebook and Twitter APIs to provide analytical solutions for raw social media data, contributing to trend analysis and sentiment evaluation.
 
 *Manager: Sunil PK* 
 
