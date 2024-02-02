@@ -6,7 +6,7 @@ excerpt: 'Currently, air pollution monitors that provide credible readings can c
 5,000$. Research grade sensors may be several times more expensive. As a result,
 there is a great need for sensors that are both cost efficient and capable of providing reliable
 data. This has been aided by an increase in research over the last two decades aimed at
-improving the quality of low-cost sensing via calibration. 23
+improving the quality of low-cost sensing via calibration.
 We used machine learning to calibrate several kinds of sensors as part of the research
 at MINTS lab. This was motivated by the concept of using machine learning to calibrate
 sensors in orbiting satellites. This method may now be utilized on a large scale to calibrate
