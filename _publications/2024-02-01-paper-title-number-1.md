@@ -5,7 +5,7 @@ title: "The Design and Deployment of a self-powered, LoRaWAN-Based IoT environme
 collection: publications
 permalink: /publication/2024-02-01-paper-title-number-1
 excerpt: 'The goal of this study is to describe a design architecture
-for a self-powered sensorsssadasd network that is currently being
+for a self-powered sensor network that is currently being
 deployed at various locations throughout the Dallas-Fort Worth
 metroplex to measure and report on Particulate Matter (PM)
 concentrations. This sensing system can collect data at remote
