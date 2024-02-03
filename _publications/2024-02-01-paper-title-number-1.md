@@ -18,7 +18,7 @@ powered solution that enables it to operate without the need for
 any type of grid connection and achieve energy self-sufficiency
 without the need for any additional power.'
 date: 2024-02-01
-venue: 'IEEE'
+venue: 'LIDSEN'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>IEEE</i>. 1(3).'
 ---
