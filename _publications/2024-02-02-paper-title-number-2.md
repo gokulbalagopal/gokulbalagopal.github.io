@@ -12,7 +12,7 @@ at MINTS lab. This was motivated by the concept of using machine learning to cal
 sensors in orbiting satellites. This method may now be utilized on a large scale to calibrate
 low-cost sensors installed across the Dallas-Fort Worth metroplex.'
 date: 2024-02-02
-venue: 'MDPI'
+venue: 'LIDSEN'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>MDPI</i>. 1(2).'
 ---

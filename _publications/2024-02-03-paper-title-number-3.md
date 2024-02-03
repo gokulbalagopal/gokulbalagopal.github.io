@@ -13,7 +13,7 @@ successive time intervals are used to generate the new time scale. This study co
 measurements of three distinctly polluted days for the month of January. The analysis shows a clear
 difference between the measured time for these days.'
 date: 2024-02-03
-venue: 'MDPI'
+venue: 'LIDSEN'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>MDPI</i>. 1(1).'
 ---
