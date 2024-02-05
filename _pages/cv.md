@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 [Download Resume](https://gokulbalagopal.github.io/files/Resume_GB.pdf){: .btn .btn--info}
+[Download Research Poster](https://gokulbalagopal.github.io/files/Resume_GB.pdf){: .btn .btn--info}
 {% include base_path %}
 
 ## 📧 Contact
