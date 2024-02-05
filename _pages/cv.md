@@ -35,7 +35,9 @@ redirect_from:
 
 *August 2017 - August 2018, Houston, TX*
 
-- Ran Time Series models to predict variations in Particulate Matter (PM) concentration across Houston.
+- Conducted neural network analysis on 17 years of Texas air pollution data to predict regional pollution levels based on environmental factors.
+- Managed over 200 GB of data for comprehensive analysis.
+- Automated Python and R script execution on the Opuntia Cluster using shell scripting for efficient data processing.
 
 *Supervisor: Professor Peggy Lindner*
   
