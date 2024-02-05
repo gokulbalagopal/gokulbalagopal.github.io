@@ -14,6 +14,7 @@ redirect_from:
 ## 📧 Contact
 - Email: [balagopalgokul@gmail.com]()
 - LinkedIn: [linkedin.com/in/gokul-balagopal/](https://www.linkedin.com/in/gokul-balagopal/)
+- GitHub: [github.com/gokulbalagopal/](https://github.com/gokulbalagopal/)
 
 
 ## 💼 Experience
@@ -72,7 +73,14 @@ redirect_from:
 - Certification: High Performace Computing
 
 ## 📝 Projects and Articles
-I frequently work on open-source projects applying state-of-the-art AI technologies. Please visit my [Github](https://github.com/gokulbalagopal) and [portfolio](https://gokulbalagopal.github.io/portfolio/) for more details.
+### Classification of Deepsat-4 dataset from Kaggle (Python)
+- Processed data with over 4 million data points as batches of 1000s. Reshaped the data to 28 x 28 x 4 format, with Red, Green, Blue and Near InfraRed (NIR) channels.
+- Neglected the NIR channels and normalized the data to obtain the color images to obtain clarity on how the satellite images differ.
+- Created gray scale images after reshaping the data into 4,000,000 x 28 x 28 x 1 matrix. 
+- Singular Value Decomposition (SVD) was used to find that only 10 components were needed to explain more than 90% of the data. These 10 components were taken from the matrix obtained after doing SVD. The count 10 was obtained from the knee point in the SVD plot.
+- Red, Blue, Green mean values for each of the images were also used as additional features. 
+- Used various machine learning classifiers like Logistic regression, Support Vector, Liner Discriminant Analyzer, Decision Tree, and Random Forest. 
+- Best performance of 96% was obtained using Random Forest. 
 
 ## 🤖 Skills
 - **Programming:** Python (NumPy, Pandas, Scikit-learn, PyTorch), R, SQL, Perl, MATLAB
