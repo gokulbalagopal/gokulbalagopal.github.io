@@ -22,18 +22,12 @@ redirect_from:
 
 *January 2020 - Present, Dallas, TX*
 
-
-- Established a Methodology for Quantifying the Sudden Variation in Particulate Matter (PM) Concentration.
-- Currently there is no established methodology for quantifying the sudden variation in particulate matter (PM) concentration that transpired within the given hourly interval.
-- The investigation is done in one of the most polluted areas of DFW, known as Joppa, and the frequency of measurements are calculated using a geostatistical method called variogram which is used for finding the location of gold nuggets in a mine. 
-- Measurement time ranged from 1 to 2 minutes for the actively polluted areas indicating how frequently the monitor must be active. 
-- An air parcel trajectory model called HYSPLIT was used to determine the course of polluted air, hence facilitating the identification of its origins. 
-- Visualized the Polluted Air Parcels to identify Potential Particulate Matter (PM) sources across DFW metroplex.
-- To provide affordable and high accuracy air quality monitoring systems for low-income neighborhoods in DFW.  
-- Employed research-grade sensors, like Palas as reference and calibrated the cheaper monitors with them using machine learning. This doubled their accuracy and reduced the installation cost to less than one percent.
-- Various regression models were used in our study and among them, neural network model yielded the greatest correlation coefficient of 0.99. A total of 17 measurements obtained from the  cheaper nodes were utilized as the independent variables, while 6 measurements of PM levels were used as the target variable. 
-- Live Dashboards to visualize the time series data of the cheaper monitors were created using python’s plotly package. This helps in detecting outages, anomalies in sensor measurement and successfully handling them
-
+- Developed a methodology for measuring rapid variations in particulate matter (PM) concentration within an hour, applied in Joppa,one of DFW's most polluted area, using geostatistical   variogram analysis for optimal measurement frequency.
+- Achieved measurement intervals of 1-2 minutes in polluted areas, optimizing air quality monitor power usage.
+- Utilized the HYSPLIT model for tracking polluted air parcels to identify pollution sources across DFW.
+- Enhanced air quality monitoring in low-income neighborhoods by calibrating low-cost sensors with research-grade sensors using machine learning, significantly improving accuracy and reducing costs.
+- Implemented stacking regression models with a correlation coefficient of 0.99 for precise PM level prediction, proving more efficient than deep neural networks.
+- Created live dashboards with Plotly for real-time data visualization, enabling efficient anomaly detection and sensor management.
 *Supervisor: Professor David Lary*
 
 ### University of Houston
