@@ -1,6 +1,6 @@
 ---
 title: "Leveraging Geostatistical Methods for Environmental Sustainability: A Focus on Airborne Particulate Matter"
-excerpt: "Characterizing the Temporal Variation of Airborne Particulate Matter Using Variograms<br/><img src='/images/Poster_img.PNG'>"
+excerpt: "<img src='/images/Poster_img.PNG'>"
 collection: Poster
 ---
 
