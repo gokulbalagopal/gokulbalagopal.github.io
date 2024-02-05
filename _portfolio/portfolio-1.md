@@ -15,4 +15,4 @@ Although Variograms are used in Geostatistics to understand the spatial variatio
 
 By advocating for more frequent and accurately targeted monitoring of PM levels, this research contributes to the foundational knowledge necessary for implementing sustainable practices. The ultimate goal is to mitigate the adverse effects of PM on the environment, paving the way for a cleaner, healthier future for succeeding generations.
 Participating in UTD's Earth Week was not just an opportunity to present my research; it was a platform to contribute to the global dialogue on sustainability. Through the lens of geostatistics, we are one step closer to understanding and controlling the environmental impact of human activity, marking a significant stride towards our collective goal of sustainability.
-This narrative emphasizes the scientific rigor and societal impact of your research, making it a compelling addition to your portfolio. It's designed to highlight not only the technical aspects of your work but also its relevance to global sustainability effort. 
+
