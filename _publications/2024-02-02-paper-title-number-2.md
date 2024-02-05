@@ -13,7 +13,7 @@ sensors in orbiting satellites. This method may now be utilized on a large scale
 low-cost sensors installed across the Dallas-Fort Worth metroplex.'
 date: 2024-02-02
 venue: 'LIDSEN'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+# paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>MDPI</i>. 1(2).'
 ---
 <!-- This paper is about the number 2. The number 3 is left for future work.

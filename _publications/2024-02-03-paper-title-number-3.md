@@ -14,7 +14,7 @@ measurements of three distinctly polluted days for the month of January. The ana
 difference between the measured time for these days.'
 date: 2024-02-03
 venue: 'LIDSEN'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+# paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>MDPI</i>. 1(1).'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work.
