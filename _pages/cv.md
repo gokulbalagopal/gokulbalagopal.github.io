@@ -12,7 +12,7 @@ redirect_from:
 {% include base_path %}
 
 ## 📧 Contact
-- Email: [gokulb3194@gmail.com]()
+- Email: [balagopalgokul@gmail.com]()
 - LinkedIn: [linkedin.com/in/gokul-balagopal/](https://www.linkedin.com/in/gokul-balagopal/)
 - GitHub: [github.com/gokulbalagopal/](https://github.com/gokulbalagopal/)
 
