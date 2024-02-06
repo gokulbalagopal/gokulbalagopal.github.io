@@ -83,12 +83,20 @@ redirect_from:
 - Best performance of 96% was obtained using Random Forest. 
 
 ## 🤖 Skills
-- **Programming:** Python (NumPy, Pandas, Scikit-learn, PyTorch), R, SQL, Perl, MATLAB
-- **Machine Learning:** Data Visulaization, Data Wrangling, Sentiment Analysis, Summarization
-- **Others:** 
-  - Visualization: ggplot, Matplotlib, Seaborn
-  - Statistical Tools: Excel
-
+- **Programming:** Python (NumPy, Pandas, Scikit-learn, PyTorch), R, SQL, C++, MATLAB, Julia.
+- **Data Handling:** Data Visulaization, Data Wrangling, Sentiment Analysis, Summarization.
+- **Machine Learning:**  Supervised Learning, Unsupervised Learning, Deep Learning, Reinforcement Learning.
+- **Neural Networks:** Convolutional Neural Networks (CNN), Feedforward Neural Networks.
+- **Frameworks and Libraries:** TensorFlow, PyTorch, Keras, Scikit-learn, NumPy, Pandas, Matplotlib, ggplot.
+- **Data Mining Techniques:** Classification, Clustering, Association Rule Learning, Regression, Neural Networks, Decision Trees, Random Forests, Support Vector Machines (SVM), Principal Component Analysis (PCA), Gradient Boosting Machines (GBM).
+- **Natural Language Processing (NLP):** Sentiment Analysis, Summarization.
+- **Computer Vision:** Image Classification, Object Detection.
+- **Operating Systems:** Unix, Linux, Windows.
+- **Version Control Systems:** GitHub, GitLab.
+- **Algorithms and DataStructures:** Trees, Graphs, Linked List, Stacks, Arrays, Hashmaps 
+- **Distributed Systems:** Opuntia, Europa, Docker.
+- **Assembly Language and Low-Level Programming:** Understanding of processor architectures (MSP432, ARM, MIPS).
+- **Scripting Languages:** Shell Scripting, Perl.
   
 Publications (To Be Puiblished)
 ======
