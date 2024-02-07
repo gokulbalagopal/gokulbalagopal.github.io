@@ -1,7 +1,7 @@
 ---
 title: "Calibration of Airborne Particulate Matter Sensors using Machine Learning "
 collection: publications
-permalink: /publication/2024-02-02-paper-title-number-2
+permalink: /publication/2024-02-02-paper-Calibration of Airborne Particulate Matter Sensors using Machine Learning
 excerpt: 'Currently, air pollution monitors that provide credible readings can cost approximately
 5,000$. Research grade sensors may be several times more expensive. As a result,
 there is a great need for sensors that are both cost efficient and capable of providing reliable
