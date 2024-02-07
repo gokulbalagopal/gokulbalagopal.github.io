@@ -1,7 +1,7 @@
 ---
 title: "Characterizing the Temporal Variation of Airborne Particulate Matter using Variograms"
 collection: publications
-permalink: /publication/2024-02-03-paper-title-number-3
+permalink: /publication/Characterizing the Temporal Variation of Airborne Particulate Matter using Variograms
 excerpt: 'This study is based on the temporal variation of airborne particulate matter concentration
 in a neighbourhood. Although the Environmental Protection Agency (EPA) measures it on an hourly
 basis, there is no definitive scientific agreement on the required frequency for these measurements.
