@@ -73,7 +73,8 @@ redirect_from:
 - Certification: High Performace Computing
 
 ## 📝 Projects and Articles
-### Classification of Deepsat-4 dataset from Kaggle (Python) - [Project Link](https://github.com/gokulbalagopal/DeepSAT){: .btn .btn--info}
+### Classification of Deepsat-4 dataset from Kaggle (Python) - [Project Link](https://github.com/gokulbalagopal/DeepSAT)
+*Objective: The goal of this project was to classify all the DeepSat4 satellite images into four broad land covers which include barren land, trees, grassland and a class that consists of all land cover classes other than the above three.*
 - Processed data with over 4 million data points as batches of 1000s. Reshaped the data to 28 x 28 x 4 format, with Red, Green, Blue and Near InfraRed (NIR) channels.
 - Neglected the NIR channels and normalized the data to obtain the color images to obtain clarity on how the satellite images differ.
 - Created gray scale images after reshaping the data into 4,000,000 x 28 x 28 x 1 matrix. 
@@ -84,7 +85,7 @@ redirect_from:
 
 
 ### Text Mining and Visualization of Factiva-News Paper articles in R - [Project Link](https://github.com/gokulbalagopal/Text-Mining-of-Factiva-Newspaper-article-using-R-programming)
-**Objective: My task was to help a journalist with data analysis to investigate the usage of certain words in newspaper articles. Media analysis focuses on text mining and therefore, our data will be text based. The goal is to run topic modeling on the data. We don’t need to know how topic modeling works, since we will just have to run a function.**
+*Objective: My task was to help a journalist with data analysis to investigate the usage of certain words in newspaper articles. Media analysis focuses on text mining and therefore, our data will be text based. The goal is to run topic modeling on the data. We don’t need to know how topic modeling works, since we will just have to run a function.*
 - Implemented the pipeline to extract documents from Factiva and generate the corpus.
 - Cleaned up the corpus and created a document term matrix.
 - Used Latent Dirichlet Allocation topic modelling to classify the data from the document term matrix.
