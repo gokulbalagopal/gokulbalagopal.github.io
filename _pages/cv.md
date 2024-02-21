@@ -73,7 +73,7 @@ redirect_from:
 - Certification: High Performace Computing
 
 ## 📝 Projects and Articles
-### Classification of Deepsat-4 dataset from Kaggle (Python)
+### Classification of Deepsat-4 dataset from Kaggle (Python) - [Project Link](https://github.com/gokulbalagopal/DeepSAT){: .btn .btn--info}
 - Processed data with over 4 million data points as batches of 1000s. Reshaped the data to 28 x 28 x 4 format, with Red, Green, Blue and Near InfraRed (NIR) channels.
 - Neglected the NIR channels and normalized the data to obtain the color images to obtain clarity on how the satellite images differ.
 - Created gray scale images after reshaping the data into 4,000,000 x 28 x 28 x 1 matrix. 
@@ -81,6 +81,15 @@ redirect_from:
 - Red, Blue, Green mean values for each of the images were also used as additional features. 
 - Used various machine learning classifiers like Logistic regression, Support Vector, Liner Discriminant Analyzer, Decision Tree, and Random Forest. 
 - Best performance of 96% was obtained using Random Forest. 
+
+
+### Text Mining and Visualization of Factiva-News Paper articles in R - [Project Link](https://github.com/gokulbalagopal/Text-Mining-of-Factiva-Newspaper-article-using-R-programming)
+**Objective: My task was to help a journalist with data analysis to investigate the usage of certain words in newspaper articles. Media analysis focuses on text mining and therefore, our data will be text based. The goal is to run topic modeling on the data. We don’t need to know how topic modeling works, since we will just have to run a function.**
+- Implemented the pipeline to extract documents from Factiva and generate the corpus.
+- Cleaned up the corpus and created a document term matrix.
+- Used Latent Dirichlet Allocation topic modelling to classify the data from the document term matrix.
+- Classified text contained the most relevant topics.
+- Created word clouds that highlights the most important topics.
 
 ## 🤖 Skills
 - **Programming:** Python (NumPy, Pandas, Scikit-learn, PyTorch), R, SQL, C++, MATLAB, Julia.
