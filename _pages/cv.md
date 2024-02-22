@@ -74,7 +74,8 @@ redirect_from:
 
 ## 📝 Projects and Articles
 
-### Characterizing  the Temporal Variation of Airborne Particulate Matter using Variograms [Project Link](https://github.com/gokulbalagopal/Temporal_Variogram_2023)
+### Characterizing  the Temporal Variation of Airborne Particulate Matter using Variograms (Thesis) [Project Link](https://github.com/gokulbalagopal/Temporal_Variogram_2023)
+*Abstract: This study is based on the temporal variation of airborne particulate matter concentration in a neighbourhood. Although the Environmental Protection Agency (EPA) measures it on an hourly basis, there is no definitive scientific agreement on the required frequency for these measurements. Variogram's can determine the optimal frequency for measuring airborne particles to effectively capture the time series. Variogram is commonly used in Geostatistics to measure the spatial correlation or variability of mineral concentration in mines. A similar approach can be used to examine the temporal variations of PM concentration in the atmosphere. Variations in the PM concentration at successive time intervals are used to generate the new time scale. This study compares the time series measurements of three distinctly polluted days for the month of January. The analysis shows a clear difference between the measured time for these days.*
 - Developed and implemented a high-resolution temporal analysis of airborne particulate matter (PM) concentrations using variogram models, significantly enhancing the identification of optimal PM measurement intervals beyond the standard hourly reports by Environmental Agencies.
 - Utilized variograms for a comprehensive analysis of pollution levels, establishing a direct correlation between pollution intensity and measurement frequency; pinpointed a reduction in measurement time to 12 seconds on the most polluted day of January 2023, underscoring the limitations of current hourly measurement standards.
 - Advocated for a critical reassessment of the EPA's measurement methodologies, proposing adjustments to the measurement scale to improve the accuracy and reliability of pollution monitoring, thereby addressing significant deviations from EPA's standard 1-hour measurement period.
@@ -85,7 +86,7 @@ redirect_from:
 - Demonstrated exceptional data analytical prowess by interpreting granular sensor data, leading to the design of responsive and efficient air quality monitoring systems with optimized measurement intervals and reduced power consumption.
 - Applied statistical analysis and computational modeling to extract actionable insights into environmental pollution patterns, significantly advancing urban air quality management practices through innovative analytical methodologies.
 
-### Classification of Deepsat-4 dataset from Kaggle (Python) - [Project Link](https://github.com/gokulbalagopal/DeepSAT)
+### Classification of Deepsat-4 dataset from Kaggle using Python - [Project Link](https://github.com/gokulbalagopal/DeepSAT)
 *Objective: The goal of this project was to classify all the DeepSat4 satellite images into four broad land covers which include barren land, trees, grassland and a class that consists of all land cover classes other than the above three.*
 - Processed data with over 4 million data points as batches of 1000s. Reshaped the data to 28 x 28 x 4 format, with Red, Green, Blue and Near InfraRed (NIR) channels.
 - Neglected the NIR channels and normalized the data to obtain the color images to obtain clarity on how the satellite images differ.
